@@ -42,16 +42,16 @@
  ![alt text](img/11.png)
 
  прикручиваем шаблон к хосту
- ![alt text](img/zadanie11111.png)
- ![alt text](img/add_tohost.png)
- ![alt text](img/add_tohost2.png)
- ![alt text](img/addtohost3.png)
+ ![alt text](img/12.png)
+ ![alt text](img/13.png)
+ ![alt text](img/14.png)
+ ![alt text](img/15.png)
  обновляем данные
- ![alt text](img/upd_itemspng.png)
+ ![alt text](img/16.png)
  Идем смотреть что получилось
  так же можно потыкать в графики
- ![alt text](img/resultpng.png)
- ![alt text](img/gaphpng.png)
+ ![alt text](img/17.png)
+ ![alt text](img/18.png)
 
 
 ## Задание 2
@@ -67,7 +67,7 @@
 Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
 
- ![alt text](img/add_hosts.png)
+ ![alt text](img/19.png)
 
 
 ## Задание 3
@@ -80,8 +80,8 @@
 Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-![alt text](img/add_templ.png)
-![alt text](img/ZADANIE2_add_hosts.png)
+![alt text](img/20.png)
+![alt text](img/21.png)
 
 ## Задание 4
 Создайте свой кастомный дашборд.
@@ -92,4 +92,4 @@
 Разместите на нём несколько графиков на ваше усмотрение.
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
-![alt text](img/test_DASHBOARD.png)
+![alt text](img/22.png)
